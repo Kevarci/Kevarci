@@ -19,6 +19,6 @@ ML solutions (Python/Sklearn/Scipy) + data pipelines (SQL/Pandas). QA rigor (Cyp
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevarci&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kevarci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevarci&show_icons=true&theme=onedark&title_color=ffde0a&locale=en" alt="kevarci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevarci&show_icons=true&theme=onedark&title_color=000000&locale=en" alt="kevarci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevarci&theme=dark" alt="kevarci" /></p>
